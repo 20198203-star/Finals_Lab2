@@ -1,0 +1,85 @@
+body {
+    background-color: #b5bd9c;
+    text-align: center;
+}
+
+body h1, h2 {
+    font-family: Georgia;
+}
+
+body p, li {
+    font-family: Verdana;
+}
+
+header {
+    background-color: #4C5E46;
+    padding: 20px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+nav a {
+    text-decoration:none;
+    color: #334A36; 
+}
+
+nav a:hover {
+    color: white;
+    background-color: #4C5E46;
+}
+
+main #home {
+    margin-top: 70px; 
+    margin-bottom: 70px;
+    line-height: 30px;
+    background-color: #7f9976; 
+}
+
+#home img {
+    width: 600px; 
+    height: 400px;
+}
+
+main #food {
+    margin-top: 70px; 
+    margin-bottom: 70px;
+    line-height: 30px;
+    background-color: #7f9976; 
+}
+
+#food img {
+    width: 800px; 
+    height: 500px;
+}
+
+main section ul li {
+    list-style-type: none;
+    line-height: 50px;
+}
+
+main #attractions {
+    margin-top: 70px; 
+    margin-bottom: 70px;
+    line-height: 30px;
+    background-color: #7f9976; 
+}
+
+#attractions img {
+    width: 800px; 
+    height: 500px;
+}
+
+main #contact {
+    margin-top: 70px; 
+    margin-bottom: 70px;
+    line-height: 30px;
+    background-color: #7f9976; 
+}
+
+footer {
+    background-color: #677f5f;
+    font-size: 10pt;
+}
+
+
+
