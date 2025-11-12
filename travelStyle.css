@@ -5,6 +5,7 @@ body {
 
 body h1, h2 {
     font-family: Georgia;
+    background-color: white;
 }
 
 body p, li {
@@ -78,6 +79,7 @@ main #contact {
 
 footer {
     background-color: #677f5f;
+    color: white;
     font-size: 10pt;
 }
 
